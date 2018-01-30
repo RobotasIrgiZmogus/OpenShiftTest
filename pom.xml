@@ -32,7 +32,9 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jersey</artifactId>
-        </dependency><!-- DATA -->
+        </dependency>
+
+        <!-- DATA -->
 
         <!--<dependency>-->
             <!--<groupId>org.springframework.boot</groupId>-->
